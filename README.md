@@ -15,8 +15,6 @@
 
 > 📦 356.9 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -64,5 +62,5 @@ Mac                      3 hrs 40 mins       ███████████�
 ```
 
 
- Last Updated on 30/01/2025 01:24:04 UTC
+ Last Updated on 31/01/2025 01:25:17 UTC
 <!--END_SECTION:waka-->
