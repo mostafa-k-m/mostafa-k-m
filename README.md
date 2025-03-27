@@ -7,7 +7,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C211%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C212%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -15,7 +15,7 @@
 
 > 📦 432.8 kB Used in GitHub's Storage 
  > 
-> 🏆 171 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,17 +50,17 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-SQL                      4 hrs 20 mins       █████████████░░░░░░░░░░░░   51.69 % 
-Other                    3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Other                    3 hrs 35 mins       ██████████████░░░░░░░░░░░   54.79 % 
+SQL                      2 hrs 45 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2025 01:32:06 UTC
+ Last Updated on 27/03/2025 01:32:36 UTC
 <!--END_SECTION:waka-->
