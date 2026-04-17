@@ -23,46 +23,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                341 commits         ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-🌃 Evening                601 commits         ███████████░░░░░░░░░░░░░░   45.26 % 
-🌙 Night                  220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Tuesday                  63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Wednesday                291 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Thursday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Friday                   241 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Saturday                 316 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Sunday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Tallinn
-
-💬 Programming Languages: 
-SQL                      4 hrs 42 mins       ███████████████░░░░░░░░░░   61.81 % 
-YAML                     2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-LookML                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 37 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/04/2026 02:49:54 UTC
+ Last Updated on 17/04/2026 02:45:00 UTC
 <!--END_SECTION:waka-->
