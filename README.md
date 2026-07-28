@@ -7,7 +7,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C264%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C548%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,7 +17,7 @@
 
 > 📦 459.3 kB Used in GitHub's Storage 
  > 
-> 🏆 477 Contributions in the Year 2026
+> 🏆 484 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,6 +66,30 @@ VS Code                  5 hrs 53 mins       ██████░░░░░�
 Mac                      26 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 03:19:23 UTC
+```text
+⏱ AI Coding Time: 22 hrs 31 mins (86.51%)
+
+✍️ 32,197 lines written by AI, 130 lines written by hand (99.6% AI-written)
+
+🔤 827,281,230 Input Tokens, 1,908,631 Output Tokens
+
+💵 $4161.46 Estimated AI Cost This Week
+
+🧠 34 AI Sessions, 342 AI Prompts
+
+Opus                     31,958 lines        ████████████████████████░   97.54 % 
+Sonnet                   805 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.6% of written lines came from AI
+📄 Detailed Prompter — average 922 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:38:19 UTC
 <!--END_SECTION:waka-->
