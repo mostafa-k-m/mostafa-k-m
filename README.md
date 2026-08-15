@@ -52,42 +52,42 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-SQL                      2 hrs 33 mins       ███████████████░░░░░░░░░░   60.62 % 
-Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+SQL                      2 hrs 27 mins       ████████████████░░░░░░░░░   63.45 % 
+Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 29 mins       █████████████████████░░░░   82.72 % 
-VS Code                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Claude Code              3 hrs 14 mins       █████████████████████░░░░   83.94 % 
+VS Code                  37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 
 💻 Operating System: 
-Mac                      4 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 5 mins (96.72%)
+⏱ AI Coding Time: 3 hrs 50 mins (99.16%)
 
 ✍️ 1,852 lines written by AI, 3 lines written by hand (99.84% AI-written)
 
-🔤 80,493,134 Input Tokens, 288,406 Output Tokens
+🔤 80,156,726 Input Tokens, 284,634 Output Tokens
 
-💵 $420.16 Estimated AI Cost This Week
+💵 $418.38 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 56 AI Prompts
+🧠 4 AI Sessions, 53 AI Prompts
 
 Opus                     2,097 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.84% of written lines came from AI
-📄 Detailed Prompter — average 1,165 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📄 Detailed Prompter — average 812 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 02:02:29 UTC
+ Last Updated on 15/08/2026 01:17:59 UTC
 <!--END_SECTION:waka-->
