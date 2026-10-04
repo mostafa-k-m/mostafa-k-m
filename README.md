@@ -52,32 +52,32 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-SQL                      11 hrs 47 mins      ████████████░░░░░░░░░░░░░   46.58 % 
-Other                    5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Python                   3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-LookML                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+SQL                      11 hrs 47 mins      ████████████░░░░░░░░░░░░░   46.86 % 
+Other                    5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Python                   3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+LookML                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 39 mins      ████████████████████░░░░░   81.61 % 
-VS Code                  4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Claude Code              20 hrs 30 mins      ████████████████████░░░░░   81.49 % 
+VS Code                  4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 
 💻 Operating System: 
-Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 37 mins (89.35%)
+⏱ AI Coding Time: 22 hrs 28 mins (89.29%)
 
 ✍️ 3,933 lines written by AI, 85 lines written by hand (97.88% AI-written)
 
-🔤 18,181,960 Input Tokens, 1,480,974 Output Tokens
+🔤 14,816,149 Input Tokens, 1,456,231 Output Tokens
 
-💵 $205.02 Estimated AI Cost This Week
+💵 $187.32 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 358 AI Prompts
+🧠 39 AI Sessions, 356 AI Prompts
 
 Opus                     2,842 lines         ██████████████████░░░░░░░   70.54 % 
 Sonnet                   1,187 lines         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
@@ -85,11 +85,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.88% of written lines came from AI
-📄 Detailed Prompter — average 661 characters per prompt
+📄 Detailed Prompter — average 663 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🔍 Hands-On Reviewer — 72.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/10/2026 04:15:48 UTC
+ Last Updated on 04/10/2026 04:47:35 UTC
 <!--END_SECTION:waka-->
